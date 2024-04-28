@@ -1,0 +1,180 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "portfolio": "Portafolio",
+    "resume": "Currículum",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "language": {
+    "spanish": "Español",
+    "english": "English",
+    "french": "Français"
+  },
+  "about": {
+    "title": "Sobre mí | Juan Luis Acebal",
+    "line1": "Me considero una persona inquieta,",
+    "line2": "que le gusta siempre estar con algo entre manos,",
+    "line3": "me encanta la experiencia de viajar,",
+    "line4": "ver cosas y conocer a gente nueva. ;)",
+    "line5": "Conocer gente es como sentir que viajo,",
+    "line6": "pues hablo y me habláis de vosotros y vuestro hogar,",
+    "line7": "me encanta imaginarme cómo será.",
+    "line8": "Es decir, mi trabajo ideal sería viajar... :)",
+    "line9": "Soy terco, me gusta hacer todo como si fuera para mí,",
+    "line10": "pensando que así, te sentirás tan cómodo/a como me siento yo,",
+    "line11": "y consideraré que te puedes sentir como yo me he sentido. ;)",
+    "photoAlt": "Foto de Juan Luis Acebal"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  },
+  "errors": {
+    "notFound": "Página no encontrada",
+    "unauthorized": "Acceso no autorizado"
+  }
+
+, "resume": {
+    "title": "Currículum | Juan Luis Acebal",
+    "photoAlt": "Mi foto",
+    "position": "Analista de datos y administrador de sistemas",
+    "contactEmail": "juanluisacebal@icloud.com",
+    "contactPhone": "+34 697494342",
+    "skillsTitle": "Habilidades técnicas",
+    "skills": {
+      "networks": "Redes: Unifi, Airmax",
+      "windows": "Windows: Windows 10, server, Active Directory, etc",
+      "servicesServers": "Servicios y servidores: DNS, DHCP, Apache, etc",
+      "linux": "Linux: virtualización, scripting",
+      "databases": "Bases de datos: Oracle, MySQL, Access",
+      "java": "Java: Swing, sql, wires, sockets, hibernate, etc",
+      "web": "Web: Html5, CSS, XML, PHP",
+      "cms": "CMS: Wordpress, Moodle, Drupal",
+      "macIos": "MacOS, iOS, iPadOS",
+      "iot": "IoT: HomeAssistant, impresión 3D"
+    },
+    "languagesTitle": "Idiomas",
+    "languages": {
+      "spanish": "Español",
+      "french": "Francés (B2-C1)",
+      "english": "Inglés (A2-B1)"
+    },
+    "educationTitle": "Educación",
+    "education": [
+      {
+        "degree": "Data Analyst",
+        "school": "OpenClassRooms, Paris (Francia)",
+        "time": "2022 - Actualidad (fin en 05-2023)"
+      },
+      {
+        "degree": "Ciclo Formativo de Grado Superior ASIR",
+        "description": "Administración de Sistemas Informáticos en Red",
+        "school": "IES Virgen de Gracia, Puertollano / IES Leonardo Da Vinci, Albacete (España)",
+        "time": "2019 - 2021"
+      },
+      {
+        "degree": "Ciclo Formativo de Grado Superior DAI",
+        "description": "Desarrollo Aplicaciones Informáticas",
+        "school": "IES Leonardo Da Vinci, Albacete (España)",
+        "time": "2010 - 2012"
+      }
+    ],
+    "workExperienceTitle": "Experiencia Laboral",
+    "workExperience": [
+      {
+        "position": "Host en Airbnb y Booking",
+        "location": "Albacete (España)",
+        "link": "www.airbnb.es/users/show/45584182",
+        "time": "2015 - 2019"
+      },
+      {
+        "position": "Autónomo. Sector informática",
+        "description": "Soporte a clientes, instalación de redes.",
+        "time": "2013 - 2015"
+      },
+      {
+        "position": "Militar profesional",
+        "description": "Especialidad en seguridad, apoyo y defensa.",
+        "location": "Ejército Español",
+        "time": "2004 - 2013"
+      }
+    ],
+    "additionalInfoTitle": "Información adicional e intereses",
+    "additionalInfo": {
+      "linuxEssentials": "Linux Essentials",
+      "github": "GitHub: https://github.com/triforza",
+      "solidarityProjects": "Participación en proyectos solidarios en Nicaragua.",
+      "testimony": "Mi testimonio",
+      "diploma": "Mi diploma"
+    }
+  },
+  "resume": {
+    "title": "CV Juan Luis Acebal Rico",
+    "photoAlt": "Foto de Juan Luis",
+    "name": "Juan Luis Acebal Rico",
+    "jobTitle": "Analista de datos y administrador de sistemas",
+    "email": "contacto@juanluisacebal.com",
+    "phone": "+34 697494342",
+    "skillsTitle": "Habilidades técnicas",
+    "networkSkills": "Redes:",
+    "windowsSkills": "Windows:",
+    "serverSkills": "Servicios y servidores:",
+    "linuxSkills": "Linux:",
+    "databaseSkills": "Bases de datos:",
+    "javaSkills": "Java:",
+    "webSkills": "Web:",
+    "cmsSkills": "CMS:",
+    "osSkills": "Sistemas operativos:",
+    "iotSkills": "IoT:",
+    "languages": "Idiomas",
+    "spanish": "Español",
+    "french": "Francés (B2-C1)",
+    "english": "Inglés (A2-B1)",
+    "additionalInfoTitle": "Información adicional e intereses",
+    "linuxCert": "Linux Essentials.",
+    "github": "Perfil GitHub",
+    "volunteering": "Voluntariado en Nicaragua",
+    "educationTitle": "Educación",
+    "dataScienceDegree": "Grado en Ciencia de Datos Aplicada (240 ECTS)",
+    "dataAnalystDiploma": "'Licence pro' Analista de Datos",
+    "asirDegree": "Ciclo Formativo de Grado Superior ASIR",
+    "daiDegree": "Ciclo Formativo de Grado Superior DAI",
+    "uocLocation": "UOC, Barcelona (España)",
+    "openclassroomsLocation": "OpenClassrooms, París (Francia)",
+    "asirLocation": "IES Virgen de Gracia, Puertollano / IES Leonardo Da Vinci, Albacete (España)",
+    "daiLocation": "IES Leonardo Da Vinci, Albacete (España)",
+    "workExperienceTitle": "Experiencia laboral",
+    "hostingExperience": "Host en Airbnb y Booking en Albacete (España)",
+    "airbnbLink": "www.airbnb.es/users/show/45584182",
+    "freelanceIT": "Autónomo. Sector informática",
+    "militaryService": "Militar profesional",
+    "softSkillsTitle": "Habilidades blandas",
+    "communicationSkills": "Habilidades comunicativas y sociales",
+    "planningSkills": "Planificación y autonomía",
+    "problemSolvingSkills": "Resolución de problemas",
+    "socialMediaPrompt": "¡Búscame en redes sociales!"
+  }
+,
+  "contact": {
+    "title": "Contáctame",
+    "subtitle": "Estoy disponible para consultas y nuevos proyectos.",
+    "phoneTitle": "Teléfono",
+    "phoneNumber": "+34 697 49 43 42",
+    "emailTitle": "Correo Electrónico",
+    "emailAddress": "contacto@juanluisacebal.com",
+    "addressTitle": "Dirección",
+    "address": "Albacete, España",
+    "socialMediaTitle": "Redes Sociales",
+    "facebookUrl": "https://www.facebook.com/juanluisacebal",
+    "instagramUrl": "https://www.instagram.com/juanluacbal",
+    "twitterUrl": "https://twitter.com/juanlu1985",
+    "linkedinUrl": "https://www.linkedin.com/in/juanluisacebal"
+  }
+  ,
+
+   "portfolio": {
+    "title": "Portafolio",
+    "comingSoon": "Pronto nuevas novedades"
+  }
+}

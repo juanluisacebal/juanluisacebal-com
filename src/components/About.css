@@ -1,0 +1,21 @@
+#texto {
+    float: left;
+    width: 50%;
+    margin-left: 15%;
+}
+
+#foto {
+    float: right;
+    width: 20%;
+    border: 2px solid #009688;
+    margin-right: 14%;
+    margin-top: 1%;
+}
+
+#foto img {
+    width: 100%;
+}
+
+#cuerpo {
+    overflow-y: hidden;
+}

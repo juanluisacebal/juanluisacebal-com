@@ -1,0 +1,130 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Me",
+    "portfolio": "Portfolio",
+    "resume": "Resume",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "language": {
+    "spanish": "Español",
+    "english": "English",
+    "french": "Français"
+  },
+  "about": {
+    "title": "About Me | Juan Luis Acebal",
+    "line1": "I consider myself a restless person,",
+    "line2": "always liking to have something to do,",
+    "line3": "I love the experience of traveling,",
+    "line4": "seeing things and meeting new people. ;)",
+    "line5": "Meeting people is like traveling for me,",
+    "line6": "as I talk to you and you tell me about yourselves and your home,",
+    "line7": "I love imagining what it might be like.",
+    "line8": "In other words, my ideal job would be traveling... :)",
+    "line9": "I'm stubborn, I like to do everything as if it were for myself,",
+    "line10": "thinking that this way, you will feel as comfortable as I do,",
+    "line11": "and I will consider that you might feel as I have felt. ;)",
+    "photoAlt": "Photo of Juan Luis Acebal"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "unauthorized": "Unauthorized access"
+  },
+  "resume": {
+    "title": "Resume | Juan Luis Acebal",
+    "photoAlt": "My photo",
+    "position": "Data Analyst and System Administrator",
+    "contactEmail": "juanluisacebal@icloud.com",
+    "contactPhone": "+34 697494342",
+    "skillsTitle": "Technical Skills",
+    "skills": {
+      "networks": "Networks: Unifi, Airmax",
+      "windows": "Windows: Windows 10, server, Active Directory, etc.",
+      "servicesServers": "Services and servers: DNS, DHCP, Apache, etc.",
+      "linux": "Linux: virtualization, scripting",
+      "databases": "Databases: Oracle, MySQL, Access",
+      "java": "Java: Swing, SQL, threads, sockets, hibernate, etc.",
+      "web": "Web: Html5, CSS, XML, PHP",
+      "cms": "CMS: Wordpress, Moodle, Drupal",
+      "macIos": "MacOS, iOS, iPadOS",
+      "iot": "IoT: HomeAssistant, 3D printing"
+    },
+    "languagesTitle": "Languages",
+    "languages": {
+      "spanish": "Spanish",
+      "french": "French (B2-C1)",
+      "english": "English (A2-B1)"
+    },
+    "educationTitle": "Education",
+    "education": [
+      {
+        "degree": "Data Analyst",
+        "school": "OpenClassRooms, Paris (France)",
+        "time": "2022 - Present (ending in 05-2023)"
+      },
+      {
+        "degree": "Higher Technical Certificate in ASIR",
+        "description": "Computer Systems Administration in Network",
+        "school": "IES Virgen de Gracia, Puertollano / IES Leonardo Da Vinci, Albacete (Spain)",
+        "time": "2019 - 2021"
+      },
+      {
+        "degree": "Higher Technical Certificate in DAI",
+        "description": "Development of Computer Applications",
+        "school": "IES Leonardo Da Vinci, Albacete (Spain)",
+        "time": "2010 - 2012"
+      }
+    ],
+    "workExperienceTitle": "Work Experience",
+    "workExperience": [
+      {
+        "position": "Host on Airbnb and Booking",
+        "location": "Albacete (Spain)",
+        "link": "www.airbnb.es/users/show/45584182",
+        "time": "2015 - 2019"
+      },
+      {
+        "position": "Self-employed. IT sector",
+        "description": "Client support, network installation.",
+        "time": "2013 - 2015"
+      },
+      {
+        "position": "Professional soldier",
+        "description": "Specialized in security, support, and defense.",
+        "location": "Spanish Army",
+        "time": "2004 - 2013"
+      }
+    ],
+    "additionalInfoTitle": "Additional Information and Interests",
+    "additionalInfo": {
+      "linuxEssentials": "Linux Essentials",
+      "github": "GitHub: https://github.com/triforza",
+      "solidarityProjects": "Participation in solidarity projects in Nicaragua.",
+      "testimony": "My testimony",
+      "diploma": "My diploma"
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "I am available for consultations and new projects.",
+    "phoneTitle": "Phone",
+    "phoneNumber": "+34 697 49 43 42",
+    "emailTitle": "Email",
+    "emailAddress": "contacto@juanluisacebal.com",
+    "addressTitle": "Address",
+    "address": "Albacete, Spain",
+    "socialMediaTitle": "Social Media",
+    "facebookUrl": "https://www.facebook.com/juanluisacebal",
+    "instagramUrl": "https://www.instagram.com/juanluacbal",
+    "twitterUrl": "https://twitter.com/juanlu1985",
+    "linkedinUrl": "https://www.linkedin.com/in/juanluisacebal"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "comingSoon": "New updates coming soon"
+  }
+}

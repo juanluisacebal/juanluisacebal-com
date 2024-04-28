@@ -1,0 +1,11 @@
+.center {
+  text-align: center; /* Centra el texto */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Alinea los ítems al centro horizontalmente */
+  justify-content: center; /* Centra los ítems en el eje principal */
+}
+
+.center img {
+  max-width: 100%; /* Asegura que las imágenes no sobrepasen el ancho del contenedor */
+}

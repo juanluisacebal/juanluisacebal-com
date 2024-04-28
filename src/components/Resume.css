@@ -1,0 +1,83 @@
+.resume {
+  font-family: 'Roboto', sans-serif;
+  color: #ccc;
+}
+
+.resume-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.resume-photo img {
+  border-radius: 50%;
+  width: 150px; /* Ajusta el tamaño de tu imagen */
+  margin-bottom: 20px;
+}
+
+.resume-contact-info h2 {
+  color: teal;
+  text-align: center;
+}
+
+.resume-skills,
+.resume-experience,
+.resume-education,
+.resume-languages,
+.resume-interests {
+  background-color: #fff;
+  padding: 16px;
+  margin: 16px 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.resume-skills h3,
+.resume-experience h3,
+.resume-education h3,
+.resume-languages h3,
+.resume-interests h3 {
+  color: #333;
+}
+
+/* Asumiendo que quieres mantener el estilo de barras de habilidad */
+.resume-skills .skill {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.resume-skills .skill .skill-level {
+  background-color: teal;
+  height: 20px;
+}
+
+.resume-social-media {
+  text-align: center;
+  padding: 20px;
+}
+
+.resume-social-media h3 {
+  margin-bottom: 20px;
+}
+
+.resume-social-media i {
+  font-size: 24px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.resume-social-media i:hover {
+  color: teal;
+}
+
+/* Ajustes responsivos si son necesarios */
+@media (max-width: 768px) {
+  .resume-header {
+    flex-direction: column;
+  }
+}
+
+/* Puedes añadir más estilos específicos según necesites */
